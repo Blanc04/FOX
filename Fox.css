@@ -27,11 +27,29 @@ body {
     display:block;
     text-align: center;
 }
-#videotable {
+/* #videotable {
     margin: 0 auto;
     border: 2px solid orange;
     padding: 10px;
     width: 100%;
+} */
+#videobox {
+    text-align: center;
+    border: 2px solid orange;
+    padding: 10px;
+}
+
+.video-card {
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+    vertical-align: top;
+}
+
+.video-card a {
+    display: block;
+    margin-top: 10px;
 }
 #top {
     font-size: 16px;
