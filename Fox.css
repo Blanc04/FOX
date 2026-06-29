@@ -16,11 +16,11 @@ body {
     margin: 0 auto;
 }
 .maintitle::before {
-    content: '"';
+    content: '🦊';
     font-size: 40px;
 }
 .maintitle::after {
-    content: '"';
+    content: '🦊';
     font-size: 40px;
 }
 .center {
